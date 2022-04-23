@@ -28,7 +28,8 @@ void uses_might_go_wrong() {
     might_go_wrong();
 }
 
-int main() {
+//int main() {
+int basic_ex() {
 
     try {
         uses_might_go_wrong();
