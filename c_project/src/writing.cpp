@@ -11,7 +11,7 @@ using namespace std;
 
 
 //int main() {
-int reading() {
+int writing() {
 
 	ofstream out_file;
 	string out_file_name = "text.txt";

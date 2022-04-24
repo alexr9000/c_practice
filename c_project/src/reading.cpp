@@ -10,7 +10,8 @@
 
 using namespace std;
 
-int main() {
+//int main() {
+int reading() {
 
 	string in_file_name = "text.txt";
 
