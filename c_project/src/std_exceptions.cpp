@@ -1,4 +1,9 @@
-// Standard Exceptions
+/*
+ * std_exceptions.cpp
+ *
+ *  Created on: Apr 23, 2022
+ *      Author: alexramirez
+ */
 
 #include <iostream>
 using namespace std;
@@ -11,7 +16,8 @@ public:
     }
 };
 
-int main() {
+//int main() {
+int std_ex() {
 
     try {
         CanGoWrong wrong;

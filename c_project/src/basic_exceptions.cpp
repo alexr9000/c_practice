@@ -5,8 +5,6 @@
  *      Author: alexramirez
  */
 
-// Basic Exceptions
-
 #include <iostream>
 using namespace std;
 

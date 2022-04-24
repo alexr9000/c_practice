@@ -1,15 +1,14 @@
-//============================================================================
-// Name        : c_project.cpp
-// Author      : Alex Ramirez
-// Version     :
-// Copyright   : Your copyright notice
-// Description : Hello World in C++, Ansi-style
-//============================================================================
+/*
+ * c_project.cpp
+ *
+ *  Created on: Apr 23, 2022
+ *      Author: alexramirez
+ */
 
 #include <iostream>
 using namespace std;
 
-//int main() {
+//1int main() {
 int hello() {
 	cout << "!!!Hello World!!!" << endl; // prints !!!Hello World!!!
 	return 0;
