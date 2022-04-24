@@ -23,8 +23,8 @@ public:
 	}
 };
 
-int main() {
-//int custom_ex() {
+//int main() {
+int custom_ex() {
 	Test test;
 
 	try {
