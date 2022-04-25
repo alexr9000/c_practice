@@ -32,7 +32,8 @@ public:
 	}
 };
 
-int main() {
+//int main() {
+int sets() {
 
 	set<int> numbers;
 
